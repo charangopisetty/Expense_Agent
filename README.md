@@ -6,7 +6,7 @@ Expense Agent is a receipt extraction application that lets users upload receipt
 
 - Live App URL: https://receipt-analysis-agent.onrender.com/
 
-<video src="</video>https://github.com/charangopisetty/Expense_Agent/blob/a94cb2b506bc3b123a2bd5190b2e8782c82bce70/Expense_Agent.mp4" width="320" height="240" controls>
+<video src="</video>https://github.com/charangopisetty/Expense_Agent/blob/a94cb2b506bc3b123a2bd5190b2e8782c82bce70/Expense_Agent.mp4" width="320" height="240"/>
 
 > Update the links above with your actual GitHub repository and deployed URL.
 
