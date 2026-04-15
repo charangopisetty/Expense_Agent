@@ -35,17 +35,10 @@ From uploaded receipts (PDF, PNG, JPEG), the app extracts:
 - Input is compressed to <=2MB before model analysis
 - PDF processing uses the first page for extraction
 
-## Local Setup (Optional)
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python app.py
-```
 
 ## Need Help?
 
-For support, feature requests, or integration help, contact the developer:
+For implementing line-by-line item analysis, feature requests, or integration help, contact the developer:
 
 - **gopisettycharan@gmail.com**
