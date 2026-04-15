@@ -45,6 +45,6 @@ From uploaded receipts (PDF, PNG, JPEG), the app extracts:
 
 ## Need Help?
 
-For implementing line-by-line item analysis, feature requests, or integration help, contact the developer:
+For implementing line-by-line item analysis or connecting it to Email and get updated in Database, feature requests, or integration help, contact the developer:
 
 - **gopisettycharan@gmail.com**
