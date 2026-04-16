@@ -11,6 +11,10 @@ Expense Agent is a receipt extraction application that lets users upload receipt
 https://github.com/user-attachments/assets/541926ad-e5b6-472f-94da-dac749fa2800
 
 
+[![Watch the video](https://www.youtube.com/shorts/0eVtbLX3pPA)](https://www.youtube.com/shorts/0eVtbLX3pPA)
+[![Watch the video] https://www.youtube.com/shorts/0eVtbLX3pPA
+
+
 
 > Update the links above with your actual GitHub repository and deployed URL.
 
